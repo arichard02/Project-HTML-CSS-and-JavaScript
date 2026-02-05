@@ -109,6 +109,9 @@ https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_column_cards
 How To Create Column Cards
 https://www.w3schools.com/howto/howto_css_column_cards.asp
 
+Toggle Dark/Light Mode
+https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp#gsc.tab=0
+
 What to display on card:
 make card clickable
 country flag
